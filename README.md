@@ -1,3 +1,3 @@
 # datasciencecoursera
 ##This will be my DS coursera repo
-This repo is just for a class assignment.
+This repo is for The Coursera DS Toolbox class assignment.
